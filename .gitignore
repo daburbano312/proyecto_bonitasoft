@@ -1,0 +1,36 @@
+# Eclipse / Bonita workspace
+/.metadata
+/.settings
+/.project
+/.classpath
+/.recommenders
+/.externalToolBuilders
+
+# Build
+/target
+/bin
+/build
+/out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+/.idea
+.vscode
+
+# Logs
+*.log
+
+# temporary files
+*.tmp
+*.bak
+
+# node (if any)
+node_modules/
+
+# archivos sensibles
+secrets.properties
+*.pem
+*.key
